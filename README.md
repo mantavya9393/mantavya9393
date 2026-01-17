@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mantavya9393
 - 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I'm currently a full stack web developer working as a full time employee in a product based firm and also a freelancer.
 - 📫 How to reach me on my email --> mantavya4593@gmail.com
 
 <!---
